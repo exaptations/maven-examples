@@ -7,4 +7,9 @@ public class TestMavenCli {
 	public void test1MavenCli(){
 		MavenCliTest.cliTest1();
 	}
+	
+	@Test
+	public void test2MavenCli(){
+		MavenCliTest.cliTest2();
+	}
 }
